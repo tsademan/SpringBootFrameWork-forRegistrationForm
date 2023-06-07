@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+body{
+	width:1450;
+	height:600;
+	float:right;
+	background-color: red;
+}
+ nav ul li{
+   list-style: none;
+    display: inline-block;
+	word-spacing: 80px;
+	color:red;
+}
+nav ul li a{
+	color:cyan;
+	font-family: sans-serif;
+    text-decoration:none;
+   margin:20px 20px;
+   padding:10px;
+   font-size: 18px;
+}
+ 
+ body nav{
+ width:1450;
+ background-color:#333;
+ overflow: hidden;
+ width: 100%;
+ }
+ header{
+  background-color:#333;
+ overflow: hidden;
+ }
